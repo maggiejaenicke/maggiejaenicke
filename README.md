@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maggie!
 - 👀 I’m interested in learning more about integrating code into my geospatial work.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Typescript, and Angular JS.
 - 📫 How to reach me: mjaenicke@contractor.usgs.gov
 
 <!---
