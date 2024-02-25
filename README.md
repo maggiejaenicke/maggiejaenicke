@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maggie!
-- 👀 I’m interested in learning more about integrating code into my geospatial work.
-- 🌱 I’m currently learning JavaScript, Typescript, and Angular JS.
-- 📫 How to reach me: mjaenicke@contractor.usgs.gov
+- 👀 I’m interested in geospatial data, frontend design, and data visualization.
+- 🌱 I started old school with AngularJS, and I’m currently experimenting with new (to me) frontend frameworks: React, Vue, and Angular.
+- 📫 How to reach me: mjaenicke@usgs.gov or maggiejaenicke@gmail.com
 
 <!---
 maggiejaenicke/maggiejaenicke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
